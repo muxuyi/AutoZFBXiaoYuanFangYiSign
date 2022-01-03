@@ -52,3 +52,35 @@ cookie文件加载成功
 
 
 
+2022-01-03 18:43:30.637233
+历史定位签到模式
+单人签到模式
+当前IP：13.91.130.175,
+
+ 美国Microsoft公司
+
+系统时间：2022-01-03 18:43:35
+UTC时间：2022-01-03 18:43:30
+北京时间：2022-01-04 02:43:30
+北京时间与系统时间误差：7:59:54.685659
+2022-01-03 18:43:35.314420:193052276签到开始
+cookie文件存在
+cookie文件加载成功
+NAME赖嘉文
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME赖嘉文
+定位 116.016456，29.673175，江西省九江市
+{"status":0,"result":{"location":{"lng":116.02805958147242,"lat":29.676875933397743},"formatted_address":"江西省九江市濂溪区","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"濂溪区","town":"","town_code":"","distance":"","direction":"","adcode":"360402","street":"","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E6%BF%82%E6%BA%AA%E5%8C%BA&street=%E4%B9%9D%E6%B1%9F%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E6%BF%82%E6%BA%AA%E5%8C%BA&bstreet=%E4%B9%9D%E6%B1%9F%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E6%BF%82%E6%BA%AA%E5%8C%BA&lng=116.01645&lat=29.67317&sfby=1
+签到成功
+2022-01-03 18:43:48.721111:193052276签到结束
+赖嘉文193052276签到成功！
+2022-01-03 18:43:48.721153程序结束
+######################################################################
+
+
+
+
